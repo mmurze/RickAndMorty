@@ -13,13 +13,13 @@
   width: 100%;
   max-width: 1200px;
   margin: 0 auto ;
-  padding: 0 15px;
-  font-size: 18px;
+  padding: 15px;
+  font-size: 25px;
 }
 
 @media (max-width: 600px) {
   .wrapper{
-    font-size: 15px;
+    font-size: 20px;
   }
 }
 </style>
